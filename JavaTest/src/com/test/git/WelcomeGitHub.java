@@ -11,6 +11,7 @@ public class WelcomeGitHub {
 		System.out.println("GitHub Test 1");
 		System.out.println("GitHub Test 2");
 		System.out.println("GitHub Test 3");
+		System.out.println("GitHub Test 4");
 
 	}
 
