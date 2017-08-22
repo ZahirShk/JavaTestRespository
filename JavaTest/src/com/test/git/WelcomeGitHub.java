@@ -10,6 +10,7 @@ public class WelcomeGitHub {
 		//adding comments from UI, get/check it locally in eclipse
 		System.out.println("GitHub Test 1");
 		System.out.println("GitHub Test 2");
+		System.out.println("GitHub Test 3");
 
 	}
 
